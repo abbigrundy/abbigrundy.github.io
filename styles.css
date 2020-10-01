@@ -4,15 +4,12 @@
   text-align: center;
   padding: 50px;
 }
-a {
-  color: white;
-}
+
 .header a {
   text-align: center;
   padding: 12px;
   font-size: 18px;
   border-radius: 4px;
-  display: inline-block;
 }
 .header a:visited {
   background-color: lightseagreen;
@@ -24,4 +21,13 @@ a {
 
 .header-right {
   float: right;
+}
+
+.favourite-food h2 {
+  color: orange;
+}
+
+aside {
+  float: right;
+  padding-left: 5%;
 }
